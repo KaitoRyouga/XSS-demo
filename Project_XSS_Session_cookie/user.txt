@@ -1,0 +1,3 @@
+admin04 : admin07
+user : user
+manager04 : manager07
